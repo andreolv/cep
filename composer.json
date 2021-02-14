@@ -17,7 +17,7 @@
             "Search": "src"
         },
         "psr-4": {
-            "andre\\cep\\": "src/"
+            "andreolv\\cep\\": "src/"
         }
     }
 }
