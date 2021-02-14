@@ -1,7 +1,7 @@
 <?php
 
 require_once "vendor/autoload.php";
-use \andre\cep\Search;
+use \andreolv\cep\Search;
 
 $busca = new Search();
 
